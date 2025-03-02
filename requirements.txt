@@ -1,0 +1,11 @@
+google-generativeai
+
+langchain
+# Hugging Face Integration
+langchain-huggingface
+langchain_openai
+transformers
+huggingface-hub
+numpy
+scikit-learn
+
